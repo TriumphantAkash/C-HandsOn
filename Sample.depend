@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1465749882 source:c:\users\sg0226162\desktop\fidessa\sample\main.cpp
+	<iostream>
+
+1465751281 source:c:\users\sg0226162\desktop\fidessa\sample\classtemplate.cpp
+	<cmath>
+	<cstdio>
+	<vector>
+	<iostream>
+	<algorithm>
+	<cassert>
+
